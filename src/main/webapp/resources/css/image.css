@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+body{
+	background: url("https://images.unsplash.com/photo-1602409202405-f71d55856381?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1100&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=3000.jpg");	
+}
+
+
+
+tbody{
+	background-color: white;
+	color: black;
+	font-weight: 10px;
+	
+}
+.text-center{
+	color: black;
+}
